@@ -6,6 +6,7 @@ Required packages:
 2. pyhsmm-spiketrains (Available at https://github.com/slinderman/pyhsmm_spiketrains): Python package required for demo_part1_HMM_Decoding.py
 
 Demonstration include:
+
 demo_Simulation.m: Simulate the calcium fluorescence traces with second order autoregressive model. At the end, 2 figures will be plotted: the fluorescence calcium traces and the true spikes, inferred spikes from using spike deconvolution, same as Figure 6B and 6C respectively.
 
 demo_Maximum_Likelihood_Decoding.m: Use maximum likelihood estimator to decode positions with filtered MPP data and plot the inferred and true trajectories.
