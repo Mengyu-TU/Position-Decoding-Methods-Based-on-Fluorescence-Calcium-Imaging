@@ -3,6 +3,9 @@
 clear
 clc
 
+addpath('data')
+addpath(genpath('Maximum_Likelihood_functions')
+
 %% Load Data
 % Load filtered MPP for decoding
 load('FilteredMPP4Decoding4MLE.mat')
