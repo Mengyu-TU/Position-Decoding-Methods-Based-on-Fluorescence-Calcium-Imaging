@@ -3,6 +3,8 @@
 clear
 clc
 
+addpath(genpath('Simulation_functions'))
+
 %% Set up
 seed = 99;
 rng(seed);
