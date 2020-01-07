@@ -1,11 +1,12 @@
 # Position-Decoding-Methods-Based-on-Fluorescence-Calcium-Imaging
 Demonstration codes for "Efficient Position Decoding Methods Based on Fluorescence Calcium Imaging in the Mouse Hippocampus" 
 
-Required packages: 
+# Required packages: 
 1. CNMF_E-master (Available at https://github.com/zhoupc/CNMF_E): MATLAB package required for demo_Simulation.m
 2. pyhsmm-spiketrains (Available at https://github.com/slinderman/pyhsmm_spiketrains): Python package required for demo_part1_HMM_Decoding.py
+3. Circular Statistics Toolbox(Available at https://www.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox-directional-statistics): MATLAB toolbox required for demo_OLE_Decoding.m
 
-Demonstration include:
+# Demonstration include:
 
 demo_Simulation.m: Simulate the calcium fluorescence traces with second order autoregressive model. At the end, 2 figures will be plotted: the fluorescence calcium traces and the true spikes, inferred spikes from using spike deconvolution, same as Figure 6B and 6C respectively.
 
