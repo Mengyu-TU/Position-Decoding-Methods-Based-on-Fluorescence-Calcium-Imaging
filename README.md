@@ -1,5 +1,5 @@
 # Position-Decoding-Methods-Based-on-Fluorescence-Calcium-Imaging
-Demonstration codes for "Efficient Position Decoding Methods Based on Fluorescence Calcium Imaging in the Mouse Hippocampus" 
+Demonstration codes for: Tu M, Zhao R, Adler A, Gan W-B, Chen ZS. 2020. Efficient Position Decoding Methods Based on Fluorescence Calcium Imaging in the Mouse Hippocampus. Neural Comput. 32(6):1144–1167. doi:10.1162/neco_a_01281. https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01281.
 
 # Required packages: 
 1. CNMF_E-master (Available at https://github.com/zhoupc/CNMF_E): MATLAB package required for demo_Simulation.m
